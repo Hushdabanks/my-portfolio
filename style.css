@@ -35,7 +35,7 @@ section:nth-child(even) {
 h1, h2 {
     margin-bottom: 15px;
 }
-.hero {
+section.hero {
     background: #16213e;
     color: white;
     text-align: center;
